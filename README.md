@@ -17,3 +17,5 @@ This template should help get you started developing with Tauri, SvelteKit and T
 Recommendation: Start with Axum. It's the closest to FastAPI in terms of ergonomics and has excellent migration documentation.
 
 Use `npm install ; npm run tauri dev` to build and run a simple SvelteKit App as a Desktop application on MacOS, Linux or Windows.
+
+The executable wil be avaiable in `src-tauri/target/debug/my-tauri-app`
